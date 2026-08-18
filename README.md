@@ -22,7 +22,7 @@ This repository houses my official professional training credentials, capturing 
 ---
 
 ### 1. 🌐 Full Stack Engineering
-* **File:** `SM_Full_Stack.pdf`
+* **File:** `Full-Stack-certificate.pdf`
 * **Core Focus:** Comprehensive architecture combining front-end/back-end systems, control system implementation, and delivering complete, market-ready products.
 * **✨ My Reflection & Passion:** Pulling everything together into a "Full Stack" perspective showed me how individual components—from a database to a robot's interface—communicate seamlessly. It feels magical to see a whole system come to life.
 * **🌱 How to Grow Further:** Expand into building robust web-based control dashboards specifically tailored for real-time embedded systems.
@@ -33,7 +33,7 @@ This repository houses my official professional training credentials, capturing 
 ---
 
 ### 2. 🤖 Robotics & Artificial Intelligence (MECAI Path)
-* **File:** `SM_Robotics_AI.pdf`
+* **File:** `Robotics-AI-certificate.pdf`
 * **Core Focus:** Bridging software intelligence with physical machine execution, kinematics, dynamics, and integrating AI models for robotic perception.
 * **✨ My Reflection & Passion:** Working with robotic arms and automation made me realize that intelligence isn't just lines of code on a server; it's when algorithms manifest into physical motion. 
 * **🌱 How to Grow Further:** Dive deeper into reinforcement learning for robotics and advanced motion planning algorithms.
@@ -44,7 +44,7 @@ This repository houses my official professional training credentials, capturing 
 ---
 
 ### 3. 🌐 Web Development & Natural Language Processing (NLP)
-* **File:** `SM_Web_NLP.pdf`
+* **File:** `Web-NLP-certificate.pdf`
 * **Core Focus:** Integrating web technologies with natural language processing models to create smart, interactive, and language-aware applications.
 * **✨ My Reflection & Passion:** Language is how humans communicate, so teaching machines to understand and process it through web interfaces opens up endless possibilities for human-robot interaction.
 * **🌱 How to Grow Further:** Build custom conversational agents that can directly interface with hardware diagnostic tools.
@@ -55,7 +55,7 @@ This repository houses my official professional training credentials, capturing 
 ---
 
 ### 4. ⚙️ Mechanical Design (Summer Internship Path)
-* **File:** `SM_Mechanical_Design.pdf`
+* **File:** `Mechanical-Design-certificate.pdf`
 * **Core Focus:** Executing heavy mechanical design paths, working on multi-project commercial products, and translating ideas into production-ready blueprints.
 * **✨ My Reflection & Passion:** Designing things that actually end up in commercial products teaches you a different kind of discipline—every millimeter and material choice counts.
 * **🌱 How to Grow Further:** Explore advanced generative design and topology optimization for aerospace and robotics parts.
@@ -66,7 +66,7 @@ This repository houses my official professional training credentials, capturing 
 ---
 
 ### 5. ⚡ Electronics, Power Systems & IoT (Internship Path)
-* **File:** `SM_Electronics_IOT.pdf`
+* **File:** `Electronics-IOT-certifcate.pdf`
 * **Core Focus:** Comprehensive immersion in power systems, electronics, and IoT implementations used in commercial products.
 * **✨ My Reflection & Passion:** Tying power management with IoT nodes made me appreciate how critical hardware reliability is when devices are deployed in the real world.
 * **🌱 How to Grow Further:** Design custom multi-layer PCBs incorporating wireless IoT modules.
@@ -77,7 +77,7 @@ This repository houses my official professional training credentials, capturing 
 ---
 
 ### 6. 🛠️ Engineering Skills & Idea Solutions
-* **File:** `SM_Engineering_Skills.pdf`
+* **File:** `Engineering-Skills-certificate.pdf`
 * **Core Focus:** Analyzing innovative ideas at leading global companies, translating real-life applications into computational models, and creative project presentation.
 * **✨ My Reflection & Passion:** Engineering isn't just about technical execution; it's about identifying the *right* problems to solve and presenting them compellingly.
 * **🌱 How to Grow Further:** Enhance technical storytelling and system architecture documentation for open-source projects.
@@ -88,7 +88,7 @@ This repository houses my official professional training credentials, capturing 
 ---
 
 ### 7. 🖨️ 3D Printing: Design to Print
-* **File:** `SM_3D_Printing.pdf`
+* **File:** `3D-Printing-certificate.pdf`
 * **Core Focus:** Converting 3D designs into printable file formats and hands-on operation with different types of 3D printers.
 * **✨ My Reflection & Passion:** There is an unmatched satisfaction in designing a digital object on screen and holding its physical prototype in your hands a few hours later.
 * **🌱 How to Grow Further:** Experiment with advanced composite filaments and dual-extrusion printing.
@@ -99,7 +99,7 @@ This repository houses my official professional training credentials, capturing 
 ---
 
 ### 8. 📐 Mechanical Fundamentals
-* **File:** `SM_Mechanical.pdf`
+* **File:** `Mechanical-Fundamentals-certificate.pdf`
 * **Core Focus:** Core principles of mechanics, mechanical design, gearbox and gear-train systems, and mechanical structures essential for robotics.
 * **✨ My Reflection & Passion:** Understanding gear ratios and mechanical structures gave me the physical intuition needed before writing a single line of motor-control code.
 * **🌱 How to Grow Further:** Design custom gearboxes for high-torque robotic actuators.
@@ -110,7 +110,7 @@ This repository houses my official professional training credentials, capturing 
 ---
 
 ### 9. 🔌 Fundamentals of Electric Circuits
-* **File:** `SM_Electric_Circuits.pdf`
+* **File:** `Electric-Circuits-certificate.pdf`
 * **Core Focus:** Basic electronic components, Ohm's law, DC/AC circuits, digital/analog sensors, and signal measurements for robotics.
 * **✨ My Reflection & Passion:** Mastering circuits is like learning the alphabet of hardware—once you understand it, debugging hardware anomalies becomes an exciting puzzle rather than a frustration.
 * **🌱 How to Grow Further:** Study advanced signal conditioning and filter design for noisy sensor environments.
@@ -121,7 +121,7 @@ This repository houses my official professional training credentials, capturing 
 ---
 
 ### 10. 🐧 Linux Fundamentals
-* **File:** `SM_Linux.pdf`
+* **File:** `Linux-Fundamentals-certificate.pdf`
 * **Core Focus:** Practical foundations of working with Linux, terminal commands, file navigation, and preparing environments for robotics deployment.
 * **✨ My Reflection & Passion:** Transitioning to Linux felt like unlocking a developer's true superpowers—complete control and transparency over the operating system.
 * **🌱 How to Grow Further:** Write custom shell scripts to automate deployment and system diagnostics.
@@ -132,7 +132,7 @@ This repository houses my official professional training credentials, capturing 
 ---
 
 ### 11. 🌿 Git & Collaborative Development (DevOps Workshop)
-* **File:** `Git_DevOps_SM.pdf`
+* **File:** `DevOps-Fundamentals-certificate.pdf`
 * **Core Focus:** Git version control systems, collaborative software development workflows, and managing codebases on GitHub.
 * **✨ My Reflection & Passion:** Git taught me how engineering is fundamentally collaborative; it’s about history, branching ideas safely, and building together.
 * **🌱 How to Grow Further:** Implement advanced GitHub Actions and automated CI/CD workflows for engineering repositories.
