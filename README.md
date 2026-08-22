@@ -13,7 +13,7 @@ Working closely with real-world systems, commercial products, and advanced engin
 
 This repository houses my official professional training credentials, capturing months of hands-on experience across hardware, software, and robotics. Every certificate here represents late nights, real-world projects, and continuous growth.
 
-✨ "The computer was born to solve problems that did not exist before." — Bill Gates f
+✨ "The computer was born to solve problems that did not exist before." — Bill Gates
 
 ---
 
